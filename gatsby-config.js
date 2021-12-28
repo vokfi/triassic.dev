@@ -1,7 +1,11 @@
 module.exports = {
-  siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
-    title: "triassic.dev",
-  },
-  plugins: [],
-};
+    plugins: [
+        `gatsby-plugin-postcss`,
+        {
+            resolve: `gatsby-plugin-purgecss`,
+            options: {
+                tailwind: true,
+            },
+        },
+    ],
+}

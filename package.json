@@ -1,12 +1,8 @@
 {
   "name": "triassic.dev",
   "version": "1.0.0",
-  "private": true,
-  "description": "triassic.dev",
+  "description": "The website that runs on https://triassic.dev",
   "author": "RealTriassic",
-  "keywords": [
-    "gatsby"
-  ],
   "scripts": {
     "develop": "gatsby develop",
     "start": "gatsby develop",
@@ -15,8 +11,13 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "autoprefixer": "^10.4.0",
     "gatsby": "^4.4.0",
+    "gatsby-plugin-postcss": "^5.4.0",
+    "gatsby-plugin-purgecss": "^6.1.0",
+    "postcss": "^8.4.5",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "tailwindcss": "^3.0.7"
   }
 }
