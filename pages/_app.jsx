@@ -11,7 +11,7 @@ function App({ Component, pageProps }) {
       <meta property="og:title" content="Triassic" />
       <meta property="og:type" content="website" />
       <meta property="og:url" content="https://triassic.dev" />
-      <meta property="og:image" content="" />
+      <meta property="og:image" content="/favicons/favicon.ico" />
       <meta property="og:description" content="Hello, I am Daniel, also known as Triassic, I am a front-end web developer and designer and this website is all about me!" />
       <meta name="description" content="Hello, I am Daniel, also known as Triassic, I am a front-end web developer and designer and this website is all about me!" />
       <meta name="theme-color" content="#74b3fa" />
