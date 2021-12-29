@@ -15,6 +15,8 @@ function App({ Component, pageProps }) {
       <meta property="og:description" content="Hello, I am Daniel, also known as Triassic, I am a front-end web developer and designer and this website is all about me!" />
       <meta name="description" content="Hello, I am Daniel, also known as Triassic, I am a front-end web developer and designer and this website is all about me!" />
       <meta name="theme-color" content="#74b3fa" />
+
+      <title>Triassic</title>
     </Head>
     <Component {...pageProps} />
    </>

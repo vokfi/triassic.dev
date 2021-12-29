@@ -9,7 +9,6 @@ export default class MyDocument extends Document {
                 <link rel="apple-touch-icon" type="image/x-icon" href="/favicons/favicon.ico"></link>
               </Head>
               <body>
-                <title>Triassic</title>
                 <Main />
                 <NextScript />
               </body>
