@@ -3,6 +3,12 @@ export default {
     defaultTitle: 'Triassic',
     description: 'Hello, I am Daniel, also known as Triassic, I am a front-end web developer and designer and this website is all about me!',
     canonical: 'https://triassic.dev',
+    additionalMetaTags: [
+        {
+          property: 'theme-color',
+          content: '#74b3fa',
+        },
+    ],
     openGraph: {
         url: 'https://triassic.dev/',
         type: 'website',
