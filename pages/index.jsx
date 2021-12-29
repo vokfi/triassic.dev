@@ -1,11 +1,9 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faPaintBrush } from '@fortawesome/free-solid-svg-icons'
-import DefaultHead from '../components/_defaulthead.jsx'
 
 export default function IndexPage() {
   return (
   <>
-   <DefaultHead />
     <body className="bg-slate-900 h-screen">
       <main>
         <div className="grid place-items-center h-screen">
