@@ -1,1 +1,11 @@
 /* Apply external CSS modifications not handled by Tailwind. */
+
+section div  {
+  padding: 1px;
+}
+
+html, body {
+  height: 100%;
+  overflow: hidden;
+  scroll-behavior: smooth;
+}
