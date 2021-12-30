@@ -12,7 +12,7 @@ export default function HomePage() {
                         <div className="bg-slate-700 p-8 rounded-lg">
                             <div className="mb-12">
                                 <p className="font-bold text-slate-600 pb-8 text-center">
-                                    <Image src="/assets/img/triassic-128x128.png" width="128" height="128" />
+                                    <Image src="/assets/img/triassic-128x128.png" width="128" height="128" alt="Triassic's Profile Picture" />
                                     <p className="text-xl text-slate-200 mt-4">Hello, I am Daniel.</p>
                                     <p className="italic text-sm text-slate-400">also known as Triassic.</p>
                                 </p>
@@ -23,12 +23,12 @@ export default function HomePage() {
                         </div>
                         <div className="relative">
                             <div className="bg-slate-800 rounded-full px-3 p-2 w-64 absolute -bottom-5 -left-32 text-center">
-                                <a data-tip="Triassic#3426" href="https://discord.gg/YFk2BzJSKK" target="_blank"><FontAwesomeIcon className="text-2xl text-slate-200 hover:text-slate-300 mr-3" icon={faDiscord}></FontAwesomeIcon></a>
-                                <a data-tip="RealTriassic" href="https://github.com/RealTriassic" target="_blank"><FontAwesomeIcon className="text-2xl text-slate-200 hover:text-slate-300 mr-3" icon={faGithub}></FontAwesomeIcon></a>
-                                <a data-tip="Triassic" href="https://youtube.com/c/triassic" target="_blank"><FontAwesomeIcon className="text-2xl text-slate-200 hover:text-slate-300 mr-3" icon={faYoutube}></FontAwesomeIcon></a>
-                                <a data-tip="@RealTriassic" href="https://twitter.com/RealTriassic" target="_blank"><FontAwesomeIcon className="text-2xl text-slate-200 hover:text-slate-300 mr-3" icon={faTwitter}></FontAwesomeIcon></a>
-                                <a data-tip="techbyteofficial" href="https://reddit.com/user/techbyteofficial" target="_blank"><FontAwesomeIcon className="text-2xl text-slate-200 hover:text-slate-300 mr-3" icon={faReddit}></FontAwesomeIcon></a>
-                                <a data-tip="RealTriassic" href="https://instagram.com/realtriassic/" target="_blank"><FontAwesomeIcon className="text-2xl text-slate-200 hover:text-slate-300" icon={faInstagram}></FontAwesomeIcon></a>
+                                <a data-tip="Triassic#3426" href="https://discord.gg/YFk2BzJSKK" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon className="text-2xl text-slate-200 hover:text-slate-300 mr-3" icon={faDiscord}></FontAwesomeIcon></a>
+                                <a data-tip="RealTriassic" href="https://github.com/RealTriassic" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon className="text-2xl text-slate-200 hover:text-slate-300 mr-3" icon={faGithub}></FontAwesomeIcon></a>
+                                <a data-tip="Triassic" href="https://youtube.com/c/triassic" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon className="text-2xl text-slate-200 hover:text-slate-300 mr-3" icon={faYoutube}></FontAwesomeIcon></a>
+                                <a data-tip="@RealTriassic" href="https://twitter.com/RealTriassic" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon className="text-2xl text-slate-200 hover:text-slate-300 mr-3" icon={faTwitter}></FontAwesomeIcon></a>
+                                <a data-tip="techbyteofficial" href="https://reddit.com/user/techbyteofficial" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon className="text-2xl text-slate-200 hover:text-slate-300 mr-3" icon={faReddit}></FontAwesomeIcon></a>
+                                <a data-tip="RealTriassic" href="https://instagram.com/realtriassic/" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon className="text-2xl text-slate-200 hover:text-slate-300" icon={faInstagram}></FontAwesomeIcon></a>
                             </div>
                         </div>
                         <div className="container text-center mt-16">
