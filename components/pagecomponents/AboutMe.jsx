@@ -27,7 +27,7 @@ export default function AboutMePage() {
                             <FontAwesomeIcon icon={faAngleDown}></FontAwesomeIcon>
                         </a>
                     </div>
-                    <p className="text-center text-lg text-slate-400 italic">Developer Note: there's nothing after this page, I'm working on it.</p>
+                    <p className="text-center text-lg text-slate-400 italic">Developer Note: there is nothing after this page, I am working on it.</p>
                 </div>
             </section>
         </>
