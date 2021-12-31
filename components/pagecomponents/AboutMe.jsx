@@ -11,7 +11,7 @@ export default function AboutMePage() {
                             <FontAwesomeIcon icon={faAngleUp}></FontAwesomeIcon>
                         </a>
                     </div>
-                    <div className="mx-12 bg-zinc-900 rounded-xl mt-8 p-6 h-[65%]">
+                    <div className="mx-12 bg-zinc-900 rounded-xl mt-8 p-6 h-[65%] md:min-w-full lg:min-w-full">
                         <p className="text-4xl text-slate-200 font-bold m-2">
                             <FontAwesomeIcon className="mr-6" icon={faQuestionCircle}></FontAwesomeIcon>
                             About Me

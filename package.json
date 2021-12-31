@@ -16,7 +16,8 @@
         "next-seo": "^4.28.1",
         "react": "17.0.2",
         "react-dom": "17.0.2",
-        "react-tooltip": "^4.2.21"
+        "react-tooltip": "^4.2.21",
+        "sharp": "^0.29.3"
     },
     "devDependencies": {
         "autoprefixer": "^10.4.0",
