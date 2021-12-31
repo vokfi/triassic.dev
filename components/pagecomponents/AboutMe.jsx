@@ -7,7 +7,7 @@ export default function AboutMePage() {
             <section id="section-2">
                 <div className="bg-slate-800 h-screen">
                     <div className="container text-center mt-6">
-                        <a data-tip="Go to the previous page" className="text-4xl text-slate-200" href="#section-1">
+                        <a data-tip="Go to the previous page" className="text-4xl text-slate-200 hover:text-slate-300" href="#section-1">
                             <FontAwesomeIcon icon={faAngleUp}></FontAwesomeIcon>
                         </a>
                     </div>
@@ -23,7 +23,7 @@ export default function AboutMePage() {
                         </p>
                     </div>
                     <div className="container text-center mt-8">
-                        <a data-tip="Go to the next page" className="text-4xl text-slate-200" href="#section-3">
+                        <a data-tip="Go to the next page" className="text-4xl text-slate-200 hover:text-slate-300" href="#section-3">
                             <FontAwesomeIcon icon={faAngleDown}></FontAwesomeIcon>
                         </a>
                     </div>
