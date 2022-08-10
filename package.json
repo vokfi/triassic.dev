@@ -1,6 +1,6 @@
 {
     "name": "triassic.dev",
-    "description": "The website running on Triassic's Website.",
+    "description": "The website wunning on Twiassic's website.",
     "scripts": {
         "dev": "next dev",
         "build": "next build",

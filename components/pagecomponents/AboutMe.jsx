@@ -7,7 +7,7 @@ export default function AboutMePage() {
             <section id="section-2">
                 <div className="bg-slate-800 h-screen">
                     <div className="container text-center mt-6">
-                        <a data-tip="Go to the previous page" className="text-4xl text-slate-200 hover:text-slate-300" href="#section-1">
+                        <a data-tip="Go to the pwevious page" className="text-4xl text-slate-200 hover:text-slate-300" href="#section-1">
                             <FontAwesomeIcon icon={faAngleUp}></FontAwesomeIcon>
                         </a>
                     </div>
@@ -17,9 +17,9 @@ export default function AboutMePage() {
                             About Me
                         </p>
                         <p className="text-slate-300 p-6 text-lg">
-                            Hello there, I am Daniel, but people refer to me as Triassic. I am a 16 year old
-                            male that is currently living in Latvia in the city of Riga, I mostly work on things
-                            such as Minecraft servers, webpages and other random things I think of.
+                            Hewwo thewe, i am daniew, but peopwe wefew to me as twiassic. I am a 16 yeaw owd
+                            mawe that is cuwwentwy wiving in latvia in the city of riga, i mostwy wowk on things
+                            such as minecwaft sewvews, webpages and othew wandom things i think of.
                         </p>
                     </div>
                     <div className="container text-center mt-8">
@@ -27,7 +27,7 @@ export default function AboutMePage() {
                             <FontAwesomeIcon icon={faAngleDown}></FontAwesomeIcon>
                         </a>
                     </div>
-                    <p className="text-center text-lg text-slate-400 italic">Developer Note: there is nothing after this page, I am working on it.</p>
+                    <p className="text-center text-lg text-slate-400 italic">Devewopew note: thewe is nothing aftew this page, i am wowking on it.</p>
                 </div>
             </section>
         </>

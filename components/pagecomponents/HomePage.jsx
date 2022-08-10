@@ -12,14 +12,14 @@ export default function HomePage() {
                         <div className="bg-slate-700 min-w-3/6 md:min-w-full lg:min-w-full p-8 rounded-lg">
                             <div className="mb-12">
                                 <div className="font-bold text-slate-600 pb-8 text-center">
-                                    <Image src="/assets/img/triassic-128x128.png" width="128" height="128" alt="Triassic's Profile Picture" />
-                                    <p className="text-xl text-slate-200 mt-4">Hello, I am Daniel.</p>
-                                    <p className="italic text-sm text-slate-400">also known as Triassic.</p>
+                                    <Image src="/assets/img/triassic-128x128.png" width="128" height="128" alt="Twiassic's Pwofiwe Pictuwe" />
+                                    <p className="text-xl text-slate-200 mt-4">Hewwo, i am daniew.</p>
+                                    <p className="italic text-sm text-slate-400">awso known as Twiassic.</p>
                                 </div>
                                 <div className="border-t border-slate-500"></div>
                             </div>
-                            <p className="font-bold text-slate-300 text-2xl">Front-end Developer & Designer.</p>
-                            <p className="italic text-slate-500 text-md mb-6">and I sure do create nice communities!</p>
+                            <p className="font-bold text-slate-300 text-2xl">Fwont-end devewopew & designew.</p>
+                            <p className="italic text-slate-500 text-md mb-6">and i suwe do cweate nice communities!</p>
                         </div>
                         <div className="relative">
                             <div className="bg-slate-800 rounded-full px-3 p-2 w-64 absolute -bottom-5 -left-32 text-center">
@@ -36,7 +36,7 @@ export default function HomePage() {
                                 <FontAwesomeIcon icon={faAngleDown}></FontAwesomeIcon>
                             </a>
                         </div>
-                        <p className="text-center text-lg text-slate-300 italic">Keep going to find out more about me ;)</p>
+                        <p className="text-center text-lg text-slate-300 italic">Keep going to find out mowe about me ;)</p>
                     </div>
                 </div>
             </div>
