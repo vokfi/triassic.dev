@@ -13,17 +13,17 @@
         "@fortawesome/free-solid-svg-icons": "^5.15.4",
         "@fortawesome/react-fontawesome": "^0.1.16",
         "next": "12.1.0",
-        "next-seo": "^4.28.1",
+        "next-seo": "4.28.1",
         "react": "17.0.2",
         "react-dom": "17.0.2",
-        "react-tooltip": "^4.2.21",
-        "sharp": "^0.30.0"
+        "react-tooltip": "4.2.21",
+        "sharp": "0.30.7"
     },
     "devDependencies": {
-        "autoprefixer": "^10.4.0",
+        "autoprefixer": "10.4.1",
         "eslint": "8.5.0",
         "eslint-config-next": "12.0.7",
-        "postcss": "^8.4.5",
-        "tailwindcss": "^3.0.8"
+        "postcss": "8.4.5",
+        "tailwindcss": "3.0.8"
     }
 }
